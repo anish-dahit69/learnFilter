@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Urbanist:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Data Filter</title>
+  </head>
+  <body class="bg-gray-50">
+    <header class="w-full text-center mt-[2rem] bg-slate-400">
+      <h1 class="font-urbanist text-[2rem] font-semibold">Filter Data</h1>
+    </header>
+    <section class="w-full h-full mt-5">
+      <p class="font-poppins text-[1.2rem] text-center font-medium">
+        Select the data you want to display
+      </p>
+      <div class="w-full h-full flex justify-center mt-[2rem] select">
+        <select
+          id="data-filter"
+          class="w-1/2 p-3 border-2 border-black text-[1.2rem] font-medium font-poppins rounded-md"
+        >
+          <option value="all">All</option>
+          <option value="nature">Nature</option>
+          <option value="technology">Technology</option>
+          <option value="architecture">Architecture</option>
+          <option value="food">Food</option>
+          <option value="travel">Travel</option>
+        </select>
+      </div>
+      <section class="-mt-4">
+        <div
+          class="sm:grid sm:grid-cols-1 sm:mx-3 md:grid md:grid-cols-2 lg:grid lg:grid-cols-3 gap-y-10 mt-[5rem] card-container"
+        ></div>
+      </section>
+      <template class="dataTemplate">
+        <div class="w-[25rem] h-[20rem] card mx-auto shadow-lg">
+          <figure class="">
+            <img class="dataImage w-full h-[15rem]" src="" alt="data image" />
+          </figure>
+          <h2 class="text-center name pt-5 text-2xl font-medium"></h2>
+        </div>
+      </template>
+    </section>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
