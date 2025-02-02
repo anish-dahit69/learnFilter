@@ -3,168 +3,168 @@
         "id": 1,
         "category": "nature",
         "title": "Forest",
-        "image": "../public/forest.jpg",
+        "image": "../public/images/forest.jpg",
         "rating": 4.5
     },
     {
         "id": 2,
         "category": "nature",
         "title": "Mountain",
-        "image": "../public/1.jpg",
+        "image": "../public/images/1.jpg",
         "rating": 4.8
     },
     {
         "id": 3,
         "category": "nature",
         "title": "River",
-        "image": "../public/2.jpg",
+        "image": "../public/images/2.jpg",
         "rating": 4.2
     },
     {
         "id": 4,
         "category": "nature",
         "title": "Sunset",
-        "image": "../public/3.jpg",
+        "image": "../public/images/3.jpg",
         "rating": 5.0
     },
     {
         "id": 5,
         "category": "animals",
         "title": "Lion",
-        "image": "../public/4.jpg",
+        "image": "../public/images/4.jpg",
         "rating": 4.7
     },
     {
         "id": 6,
         "category": "animals",
         "title": "Elephant",
-        "image": "../public/5.jpg",
+        "image": "../public/images/5.jpg",
         "rating": 4.9
     },
     {
         "id": 7,
         "category": "animals",
         "title": "Tiger",
-        "image": "../public/6.jpg",
+        "image": "../public/images/6.jpg",
         "rating": 4.6
     },
     {
         "id": 8,
         "category": "animals",
         "title": "Zebra",
-        "image": "../public/7.jpg",
+        "image": "../public/images/7.jpg",
         "rating": 4.3
     },
     {
         "id": 9,
         "category": "technology",
         "title": "Laptop",
-        "image": "../public/8.jpg",
+        "image": "../public/images/8.jpg",
         "rating": 4.4
     },
     {
         "id": 10,
         "category": "technology",
         "title": "Smartphone",
-        "image": "../public/9.jpg",
+        "image": "../public/images/9.jpg",
         "rating": 4.7
     },
     {
         "id": 11,
         "category": "technology",
         "title": "Tablet",
-        "image": "../public/8.jpg",
+        "image": "../public/images/8.jpg",
         "rating": 4.5
     },
     {
         "id": 12,
         "category": "technology",
         "title": "Smartwatch",
-        "image": "../public/9.jpg",
+        "image": "../public/images/9.jpg",
         "rating": 4.8
     },
     {
         "id": 13,
         "category": "architecture",
         "title": "Skyscraper",
-        "image": "../public/10.jpg",
+        "image": "../public/images/10.jpg",
         "rating": 4.6
     },
     {
         "id": 14,
         "category": "architecture",
         "title": "Bridge",
-        "image": "../public/11.jpg",
+        "image": "../public/images/11.jpg",
         "rating": 4.9
     },
     {
         "id": 15,
         "category": "architecture",
         "title": "Castle",
-        "image": "../public/12.jpg",
+        "image": "../public/images/12.jpg",
         "rating": 4.7
     },
     {
         "id": 16,
         "category": "architecture",
         "title": "Temple",
-        "image": "../public/13.jpg",
+        "image": "../public/images/13.jpg",
         "rating": 5.0
     },
     {
         "id": 17,
         "category": "food",
         "title": "Pizza",
-        "image": "../public/14.jpg",
+        "image": "../public/images/14.jpg",
         "rating": 4.5
     },
     {
         "id": 18,
         "category": "food",
         "title": "Burger",
-        "image": "../public/15.jpg",
+        "image": "../public/images/15.jpg",
         "rating": 4.3
     },
     {
         "id": 19,
         "category": "food",
         "title": "Pasta",
-        "image": "../public/16.jpg",
+        "image": "../public/images/16.jpg",
         "rating": 4.8
     },
     {
         "id": 20,
         "category": "food",
         "title": "Sushi",
-        "image": "../public/17.jpg",
+        "image": "../public/images/17.jpg",
         "rating": 4.9
     },
     {
         "id": 21,
         "category": "travel",
         "title": "Beach",
-        "image": "../public/18.jpg",
+        "image": "../public/images/18.jpg",
         "rating": 4.7
     },
     {
         "id": 22,
         "category": "travel",
         "title": "Desert",
-        "image": "../public/19.jpg",
+        "image": "../public/images/19.jpg",
         "rating": 4.6
     },
     {
         "id": 23,
         "category": "travel",
         "title": "Cityscape",
-        "image": "../public/20.jpg",
+        "image": "../public/images/20.jpg",
         "rating": 4.4
     },
     {
         "id": 24,
         "category": "travel",
         "title": "Jungle",
-        "image": "../public/21.jpg",
+        "image": "../public/images/21.jpg",
         "rating": 4.8
     }
 ]
